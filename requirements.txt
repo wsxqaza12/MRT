@@ -1,0 +1,21 @@
+# python=3.8
+numpy
+pandas
+requests
+jupyter
+ipykernel
+wget
+matplotlib
+seaborn
+chardet
+scipy
+bs4
+lxml
+folium
+statsmodels
+pykrige
+shapely
+geopandas
+catboost
+shap
+d3blocks
